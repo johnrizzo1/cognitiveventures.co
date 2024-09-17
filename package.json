@@ -1,9 +1,9 @@
 {
-  "name": "hugoplate",
-  "description": "hugo tailwindcss boilerplate",
-  "version": "1.15.2",
-  "license": "MIT",
-  "author": "zeon.studio",
+  "name": "cognitiveventures",
+  "description": "corporate landing page",
+  "version": "1.00.0",
+  "license": "",
+  "author": "cognitiveventures",
   "scripts": {
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
