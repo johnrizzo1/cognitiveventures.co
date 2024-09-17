@@ -2,6 +2,6 @@
 # Banner
 banner:
   title: "Cognitive Ventures"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  content: "Cognitive Ventures is a consulting company focused on Technology Leadership, Development, Infrastructure and Security Operations"
   image: "/images/logo_index.png"
 ---
