@@ -36,4 +36,4 @@ Whether you’re just beginning your AI journey or looking to optimize existing 
 
 The potential of AI is limitless, but realizing it starts with a single step. Take that step today by reaching out to Cognitive Ventures. Let’s discuss how we can help you integrate AI into your business, making everyone more productive and freeing you to focus on what matters most. 
 
-**Ready to take the next step?** Contact us today and let’s transform the way you work. 
+**Ready to take the next step?** <a href="/contact/">Contact us</a> today and let’s transform the way you work. 
