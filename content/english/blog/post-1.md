@@ -2,7 +2,7 @@
 title: "Introducing Cognitive Ventures"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2025-01-01T05:00:00Z
 image: "/images/cv_ai_header.webp"
 categories: ["Announcements"]
 author: "John Rizzo"
